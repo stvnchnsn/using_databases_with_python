@@ -1,0 +1,3 @@
+Your static IPv4 address:    192.168.0.118/24
+default wireguide port: 51820
+1194
